@@ -1,6 +1,6 @@
-#include "stl_containers/vector_access.h"
+#include "stl_containers/keep_vector_sorted.h"
 
 int main(int argc, char* argv[]) {
-  handle_vector_access_snippet();
+  keep_vector_sorted();
   return 0;
 }
