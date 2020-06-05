@@ -4,7 +4,7 @@
 #include <iostream>
 #include <vector>
 
-void vector_access_snippet() {
+void vector_access() {
   constexpr size_t container_size { 1000 };
   std::vector v(container_size, 123);
 
@@ -15,7 +15,7 @@ void vector_access_snippet() {
   std::cout << "Out of range element value: " << v.at(container_size + 10) << '\n';
 }
 
-void handle_vector_access_snippet() {
+void vector_access_handled() {
   constexpr size_t container_size { 1000 };
   const std::vector v(container_size, 123);
 
