@@ -1,6 +1,6 @@
-#include "stl_containers/keep_vector_sorted.h"
+#include "stl_containers/inserting_into_map.h"
 
 int main(int argc, char* argv[]) {
-  keep_vector_sorted();
+  inserting_into_map();
   return 0;
 }
