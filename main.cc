@@ -1,6 +1,6 @@
-#include "stl_containers/inserting_into_map.h"
+#include "stl_containers/map_insertion_hint_semantics.h"
 
 int main(int argc, char* argv[]) {
-  inserting_into_map();
+  map_insertion_hint_semantics();
   return 0;
 }
