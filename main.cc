@@ -1,6 +1,6 @@
-#include "stl_containers/map_insertion_hint_semantics.h"
+#include "stl_containers/unordered_map_with_custom_types.h"
 
 int main(int argc, char* argv[]) {
-  map_insertion_hint_semantics();
+  unordered_map_with_custom_types();
   return 0;
 }
