@@ -1,6 +1,6 @@
-#include "stl_containers/unordered_map_with_custom_types.h"
+#include "stl_containers/filtering_duplicates.h"
 
 int main(int argc, char* argv[]) {
-  unordered_map_with_custom_types();
+  filtering_duplicates();
   return 0;
 }
