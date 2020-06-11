@@ -1,6 +1,6 @@
-#include "stl_containers/filtering_duplicates.h"
+#include "stl_containers/rpn_calculator.h"
 
 int main(int argc, char* argv[]) {
-  filtering_duplicates();
+  rpn_calculator();
   return 0;
 }
