@@ -1,6 +1,6 @@
-#include "stl_containers/rpn_calculator.h"
+#include "stl_containers/word_frequency_counter.h"
 
 int main(int argc, char* argv[]) {
-  rpn_calculator();
+  word_frequency_counter();
   return 0;
 }
