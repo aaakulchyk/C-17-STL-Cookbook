@@ -1,6 +1,6 @@
-#include "iterators/iterable_range.h"
+#include "iterators/iterator_categories.h"
 
 int main(int argc, char* argv[]) {
-  iterable_range();
+  iterator_categories();
   return 0;
 }

@@ -20,13 +20,27 @@ class NumIterator {
     return *this;
   }
 
+  bool operator==(const NumIterator& other) const {
+    return i_ == other.i_;
+  }
+
   bool operator!=(const NumIterator& other) const {
-    return i_ != other.i_;
+    return !(*this == other);
   }
 
  private:
   int i_;
 }; // class NumIterator
+
+namespace std {
+
+template <>
+struct iterator_traits<NumIterator> {
+  using iterator_category = std::forward_iterator_tag;
+  using value_type = int;
+}; // struct iterator_traits<NumIterator>
+
+} // namespace std
 
 class NumRange {
  public:
