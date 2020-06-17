@@ -1,6 +1,6 @@
-#include "iterators/iterator_categories.h"
+#include "iterators/iterator_adapters.h"
 
 int main(int argc, char* argv[]) {
-  iterator_categories();
+  iterator_adapters();
   return 0;
 }
