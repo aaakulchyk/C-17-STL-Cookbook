@@ -1,6 +1,5 @@
-#include "iterators/reverse_iterator_adapters.h"
+#include "iterators/iterator_sentinels.h"
 
 int main(int argc, char* argv[]) {
-  reverse_iterator_adapters();
-  return 0;
+  return iterator_sentinels(argc, argv);
 }
