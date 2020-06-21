@@ -1,5 +1,6 @@
-#include "iterators/iterator_sentinels.h"
+#include "iterators/checked_iterators.h"
 
 int main(int argc, char* argv[]) {
-  return iterator_sentinels(argc, argv);
+  checked_iterators();
+  return 0;
 }
