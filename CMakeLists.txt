@@ -4,6 +4,7 @@ project(C__17_STL_Cookbook)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(C__17_STL_Cookbook main.cc
+
         stl_containers/vector_access.h
         stl_containers/keep_vector_sorted.h
         stl_containers/inserting_into_map.h
@@ -15,10 +16,14 @@ add_executable(C__17_STL_Cookbook main.cc
         stl_containers/word_frequency_counter.h
         stl_containers/writing_style_helper.h
         stl_containers/personal_todo_list.h
+
         iterators/iterable_range.h
         iterators/iterator_categories.h
         iterators/iterator_adapters.h
         iterators/iterator_algorithms.h
         iterators/reverse_iterator_adapters.h
         iterators/iterator_sentinels.h
-        iterators/checked_iterators.h iterators/zip_iterator.h)
+        iterators/checked_iterators.h
+        iterators/zip_iterator.h
+
+        lambda_expressions/defining_lambdas.h)

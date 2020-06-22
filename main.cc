@@ -1,6 +1,6 @@
-#include "iterators/zip_iterator.h"
+#include "lambda_expressions/defining_lambdas.h"
 
 int main(int argc, char* argv[]) {
-  zip_iterator();
+  defining_lambdas();
   return 0;
 }
