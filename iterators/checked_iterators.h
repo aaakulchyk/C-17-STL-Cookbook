@@ -2,7 +2,7 @@
 #define C__17_STL_COOKBOOK_ITERATORS_CHECKED_ITERATORS_H_
 
 // Set this G++ flag to run sanitizer and debug
-#define _GLIBCXX_DEBUG
+// #define _GLIBCXX_DEBUG
 
 #include <iostream>
 #include <vector>

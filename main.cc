@@ -1,6 +1,6 @@
-#include "iterators/checked_iterators.h"
+#include "iterators/zip_iterator.h"
 
 int main(int argc, char* argv[]) {
-  checked_iterators();
+  zip_iterator();
   return 0;
 }
