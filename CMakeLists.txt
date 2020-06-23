@@ -26,4 +26,5 @@ add_executable(C__17_STL_Cookbook main.cc
         iterators/checked_iterators.h
         iterators/zip_iterator.h
 
-        lambda_expressions/defining_lambdas.h)
+        lambda_expressions/defining_lambdas.h
+        lambda_expressions/wrapping_lambdas.h)

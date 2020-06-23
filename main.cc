@@ -1,6 +1,6 @@
-#include "lambda_expressions/defining_lambdas.h"
+#include "lambda_expressions/wrapping_lambdas.h"
 
 int main(int argc, char* argv[]) {
-  defining_lambdas();
+  wrapping_lambdas();
   return 0;
 }
