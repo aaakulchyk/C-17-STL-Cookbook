@@ -1,6 +1,6 @@
-#include "lambda_expressions/wrapping_lambdas.h"
+#include "lambda_expressions/function_concatenation.h"
 
 int main(int argc, char* argv[]) {
-  wrapping_lambdas();
+  function_concatenation();
   return 0;
 }
