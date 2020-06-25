@@ -1,6 +1,6 @@
-#include "lambda_expressions/function_concatenation.h"
+#include "lambda_expressions/complex_predicates.h"
 
 int main(int argc, char* argv[]) {
-  function_concatenation();
+  complex_predicates();
   return 0;
 }
