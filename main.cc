@@ -1,6 +1,6 @@
-#include "lambda_expressions/complex_predicates.h"
+#include "lambda_expressions/multifunction_calling.h"
 
 int main(int argc, char* argv[]) {
-  complex_predicates();
+  multifunction_calling();
   return 0;
 }
