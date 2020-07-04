@@ -30,4 +30,5 @@ add_executable(C__17_STL_Cookbook main.cc
         lambda_expressions/wrapping_lambdas.h
         lambda_expressions/function_concatenation.h
         lambda_expressions/complex_predicates.h
-        lambda_expressions/multifunction_calling.h)
+        lambda_expressions/multifunction_calling.h
+        lambda_expressions/transform_if.h)

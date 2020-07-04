@@ -1,6 +1,6 @@
-#include "lambda_expressions/multifunction_calling.h"
+#include "lambda_expressions/transform_if.h"
 
 int main(int argc, char* argv[]) {
-  multifunction_calling();
+  transform_if();
   return 0;
 }
