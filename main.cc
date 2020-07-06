@@ -1,6 +1,6 @@
-#include "lambda_expressions/transform_if.h"
+#include "lambda_expressions/cartesian_product.h"
 
 int main(int argc, char* argv[]) {
-  transform_if();
+  cartesian_product();
   return 0;
 }
