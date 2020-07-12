@@ -33,4 +33,4 @@ add_executable(C__17_STL_Cookbook main.cc
         lambda_expressions/multifunction_calling.h
         lambda_expressions/transform_if.h
         lambda_expressions/cartesian_product.h
-        stl_algorithms/copying_items.h)
+        stl_algorithms/copying_items.h stl_algorithms/sorting_containers.h)

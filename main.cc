@@ -1,6 +1,6 @@
-#include "stl_algorithms/copying_items.h"
+#include "stl_algorithms/sorting_containers.h"
 
 int main(int argc, char* argv[]) {
-  copying_items();
+  sorting_containers();
   return 0;
 }
