@@ -1,6 +1,6 @@
-#include "stl_algorithms/removing_specific_items.h"
+#include "stl_algorithms/transforming_contents.h"
 
 int main(int argc, char* argv[]) {
-  removing_specific_items();
+  transforming_contents();
   return 0;
 }
