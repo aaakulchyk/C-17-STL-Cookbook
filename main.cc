@@ -1,6 +1,6 @@
-#include "stl_algorithms/sorting_containers.h"
+#include "stl_algorithms/removing_specific_items.h"
 
 int main(int argc, char* argv[]) {
-  sorting_containers();
+  removing_specific_items();
   return 0;
 }
