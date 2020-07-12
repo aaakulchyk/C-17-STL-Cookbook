@@ -1,6 +1,6 @@
-#include "lambda_expressions/cartesian_product.h"
+#include "stl_algorithms/copying_items.h"
 
 int main(int argc, char* argv[]) {
-  cartesian_product();
+  copying_items();
   return 0;
 }
