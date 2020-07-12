@@ -1,6 +1,6 @@
-#include "stl_algorithms/transforming_contents.h"
+#include "stl_algorithms/finding_items.h"
 
 int main(int argc, char* argv[]) {
-  transforming_contents();
+  finding_items();
   return 0;
 }
