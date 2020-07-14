@@ -1,6 +1,6 @@
-#include "stl_algorithms/limiting_values_to_range.h"
+#include "stl_algorithms/locating_patterns_in_strings.h"
 
 int main(int argc, char* argv[]) {
-  limiting_values_to_range();
+  locating_patterns_in_strings();
   return 0;
 }
