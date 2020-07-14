@@ -38,4 +38,5 @@ add_executable(C__17_STL_Cookbook main.cc
         stl_algorithms/sorting_containers.h
         stl_algorithms/removing_specific_items.h
         stl_algorithms/transforming_contents.h
-        stl_algorithms/finding_items.h)
+        stl_algorithms/finding_items.h
+        stl_algorithms/limiting_values_to_range.h)

@@ -1,6 +1,6 @@
-#include "stl_algorithms/finding_items.h"
+#include "stl_algorithms/limiting_values_to_range.h"
 
 int main(int argc, char* argv[]) {
-  finding_items();
+  limiting_values_to_range();
   return 0;
 }
