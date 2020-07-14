@@ -1,6 +1,6 @@
-#include "stl_algorithms/sampling_large_vectors.h"
+#include "stl_algorithms/generating_permutations.h"
 
 int main(int argc, char* argv[]) {
-  sampling_large_vectors();
+  generating_permutations();
   return 0;
 }

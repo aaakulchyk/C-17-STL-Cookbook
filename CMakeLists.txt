@@ -41,4 +41,5 @@ add_executable(C__17_STL_Cookbook main.cc
         stl_algorithms/finding_items.h
         stl_algorithms/limiting_values_to_range.h
         stl_algorithms/locating_patterns_in_strings.h
-        stl_algorithms/sampling_large_vectors.h)
+        stl_algorithms/sampling_large_vectors.h
+        stl_algorithms/generating_permutations.h)
