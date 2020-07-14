@@ -1,6 +1,6 @@
-#include "stl_algorithms/locating_patterns_in_strings.h"
+#include "stl_algorithms/sampling_large_vectors.h"
 
 int main(int argc, char* argv[]) {
-  locating_patterns_in_strings();
+  sampling_large_vectors();
   return 0;
 }
