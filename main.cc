@@ -1,6 +1,6 @@
-#include "stl_algorithms/generating_permutations.h"
+#include "stl_algorithms_advanced/implementing_trie.h"
 
 int main(int argc, char* argv[]) {
-  generating_permutations();
+  implementing_trie();
   return 0;
 }
