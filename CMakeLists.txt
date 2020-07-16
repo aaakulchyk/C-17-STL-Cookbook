@@ -46,4 +46,5 @@ add_executable(C__17_STL_Cookbook main.cc
         stl_algorithms/dictionary_merging.h
 
         stl_algorithms_advanced/implementing_trie.h
-        stl_algorithms_advanced/search_input_suggestion.h)
+        stl_algorithms_advanced/search_input_suggestion.h
+        stl_algorithms_advanced/fourier_transform.h)

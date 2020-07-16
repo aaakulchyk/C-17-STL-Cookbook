@@ -1,6 +1,6 @@
-#include "stl_algorithms_advanced/search_input_suggestion.h"
+#include "stl_algorithms_advanced/fourier_transform.h"
 
 int main(int argc, char* argv[]) {
-  search_input_suggestion();
+  fourier_transform();
   return 0;
 }
