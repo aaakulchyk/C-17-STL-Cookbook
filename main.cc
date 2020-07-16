@@ -1,6 +1,6 @@
-#include "stl_algorithms_advanced/fourier_transform.h"
+#include "stl_algorithms_advanced/vector_error_sum.h"
 
 int main(int argc, char* argv[]) {
-  fourier_transform();
+  vector_error_sum();
   return 0;
 }
