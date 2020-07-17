@@ -1,6 +1,6 @@
-#include "stl_algorithms_advanced/ascii_mandelbrot_renderer.h"
+#include "stl_algorithms_advanced/split.h"
 
 int main(int argc, char* argv[]) {
-  ascii_mandelbrot_renderer();
+  split();
   return 0;
 }
