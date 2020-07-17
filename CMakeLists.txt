@@ -48,4 +48,5 @@ add_executable(C__17_STL_Cookbook main.cc
         stl_algorithms_advanced/implementing_trie.h
         stl_algorithms_advanced/search_input_suggestion.h
         stl_algorithms_advanced/fourier_transform.h
-        stl_algorithms_advanced/vector_error_sum.h)
+        stl_algorithms_advanced/vector_error_sum.h
+        stl_algorithms_advanced/ascii_mandelbrot_renderer.h)

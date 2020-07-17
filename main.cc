@@ -1,6 +1,6 @@
-#include "stl_algorithms_advanced/vector_error_sum.h"
+#include "stl_algorithms_advanced/ascii_mandelbrot_renderer.h"
 
 int main(int argc, char* argv[]) {
-  vector_error_sum();
+  ascii_mandelbrot_renderer();
   return 0;
 }
