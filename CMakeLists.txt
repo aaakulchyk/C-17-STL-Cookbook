@@ -50,4 +50,5 @@ add_executable(C__17_STL_Cookbook main.cc
         stl_algorithms_advanced/fourier_transform.h
         stl_algorithms_advanced/vector_error_sum.h
         stl_algorithms_advanced/ascii_mandelbrot_renderer.h
-        stl_algorithms_advanced/split.h)
+        stl_algorithms_advanced/split.h
+        stl_algorithms_advanced/gather.h)

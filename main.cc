@@ -1,6 +1,6 @@
-#include "stl_algorithms_advanced/split.h"
+#include "stl_algorithms_advanced/gather.h"
 
 int main(int argc, char* argv[]) {
-  split();
+  gather();
   return 0;
 }
