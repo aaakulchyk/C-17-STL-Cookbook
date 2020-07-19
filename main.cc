@@ -1,6 +1,6 @@
-#include "stl_algorithms_advanced/removing_consecutive_whitespace.h"
+#include "stl_algorithms_advanced/compressing_decompressing_strings.h"
 
 int main(int argc, char* argv[]) {
-  removing_consecutive_whitespace();
+  compressing_decompressing_strings();
   return 0;
 }
