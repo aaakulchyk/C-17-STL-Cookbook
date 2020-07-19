@@ -1,6 +1,6 @@
-#include "stl_algorithms_advanced/gather.h"
+#include "stl_algorithms_advanced/removing_consecutive_whitespace.h"
 
 int main(int argc, char* argv[]) {
-  gather();
+  removing_consecutive_whitespace();
   return 0;
 }
