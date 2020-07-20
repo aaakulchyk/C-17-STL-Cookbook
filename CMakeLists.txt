@@ -53,4 +53,6 @@ add_executable(C__17_STL_Cookbook main.cc
         stl_algorithms_advanced/split.h
         stl_algorithms_advanced/gather.h
         stl_algorithms_advanced/removing_consecutive_whitespace.h
-        stl_algorithms_advanced/compressing_decompressing_strings.h)
+        stl_algorithms_advanced/compressing_decompressing_strings.h
+
+        strings/create_concatenate_transform.h)
