@@ -1,6 +1,6 @@
-#include "strings/create_concatenate_transform.h"
+#include "strings/trim_whitespace.h"
 
 int main(int argc, char* argv[]) {
-  create_concatenate_transform();
+  trim_whitespace();
   return 0;
 }
