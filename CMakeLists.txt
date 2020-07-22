@@ -56,4 +56,5 @@ add_executable(C__17_STL_Cookbook main.cc
         stl_algorithms_advanced/compressing_decompressing_strings.h
 
         strings/create_concatenate_transform.h
-        strings/trim_whitespace.h)
+        strings/trim_whitespace.h
+        strings/comfort_without_constructing.h)

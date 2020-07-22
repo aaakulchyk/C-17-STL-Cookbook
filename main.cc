@@ -1,6 +1,6 @@
-#include "strings/trim_whitespace.h"
+#include "strings/comfort_without_constructing.h"
 
 int main(int argc, char* argv[]) {
-  trim_whitespace();
+  comfort_without_constructing(argc, argv);
   return 0;
 }
