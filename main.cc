@@ -1,6 +1,6 @@
-#include "strings/comfort_without_constructing.h"
+#include "strings/reading_from_input.h"
 
 int main(int argc, char* argv[]) {
-  comfort_without_constructing(argc, argv);
+  reading_from_input();
   return 0;
 }
