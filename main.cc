@@ -1,6 +1,6 @@
-#include "strings/reading_from_input.h"
+#include "strings/counting_words.h"
 
 int main(int argc, char* argv[]) {
-  reading_from_input();
+  counting_words(argc, argv);
   return 0;
 }

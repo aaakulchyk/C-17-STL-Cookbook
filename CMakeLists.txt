@@ -58,4 +58,5 @@ add_executable(C__17_STL_Cookbook main.cc
         strings/create_concatenate_transform.h
         strings/trim_whitespace.h
         strings/comfort_without_constructing.h
-        strings/reading_from_input.h)
+        strings/reading_from_input.h
+        strings/counting_words.h)
