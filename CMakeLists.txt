@@ -59,4 +59,5 @@ add_executable(C__17_STL_Cookbook main.cc
         strings/trim_whitespace.h
         strings/comfort_without_constructing.h
         strings/reading_from_input.h
-        strings/counting_words.h)
+        strings/counting_words.h
+        strings/formatting_output.h)

@@ -1,6 +1,6 @@
-#include "strings/counting_words.h"
+#include "strings/formatting_output.h"
 
 int main(int argc, char* argv[]) {
-  counting_words(argc, argv);
+  formatting_output();
   return 0;
 }
