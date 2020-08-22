@@ -1,6 +1,6 @@
-#include "utility_classes/replacing_void_ptr_with_std_any.h"
+#include "utility_classes/storing_different_types_with_std_variant.h"
 
 int main(int argc, char* argv[]) {
-  replacing_void_ptr_with_std_any();
+  storing_different_types_with_std_variant();
   return 0;
 }
