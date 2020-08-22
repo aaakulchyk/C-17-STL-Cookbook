@@ -61,4 +61,6 @@ add_executable(C__17_STL_Cookbook main.cc
         strings/reading_from_input.h
         strings/counting_words.h
         strings/formatting_output.h
-        strings/initializing_objects_from_input.h)
+        strings/initializing_objects_from_input.h
+
+        utility_classes/replacing_void_ptr_with_std_any.h)
