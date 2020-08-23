@@ -66,4 +66,5 @@ add_executable(C__17_STL_Cookbook main.cc
         utility_classes/replacing_void_ptr_with_std_any.h
         utility_classes/storing_different_types_with_std_variant.h
         utility_classes/unique_ptr.h
-        utility_classes/shared_ptr.h)
+        utility_classes/shared_ptr.h
+        utility_classes/weak_ptr.h)

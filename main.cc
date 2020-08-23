@@ -1,6 +1,6 @@
-#include "utility_classes/shared_ptr.h"
+#include "utility_classes/weak_ptr.h"
 
 int main(int argc, char* argv[]) {
-  shared_ptr();
+  weak_ptr();
   return 0;
 }
