@@ -1,6 +1,6 @@
-#include "utility_classes/unique_ptr.h"
+#include "utility_classes/shared_ptr.h"
 
 int main(int argc, char* argv[]) {
-  unique_ptr();
+  shared_ptr();
   return 0;
 }
