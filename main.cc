@@ -1,6 +1,6 @@
-#include "utility_classes/storing_different_types_with_std_variant.h"
+#include "utility_classes/unique_ptr.h"
 
 int main(int argc, char* argv[]) {
-  storing_different_types_with_std_variant();
+  unique_ptr();
   return 0;
 }
