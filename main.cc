@@ -1,6 +1,6 @@
-#include "utility_classes/weak_ptr.h"
+#include "utility_classes/legacy_apis_with_smart_pointers.h"
 
 int main(int argc, char* argv[]) {
-  weak_ptr();
+  legacy_apis_with_smart_pointers();
   return 0;
 }
